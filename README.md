@@ -11,6 +11,8 @@ CSGO Coordinates allows you to convert Blender coordinates and copy them to Afte
 https://user-images.githubusercontent.com/30211694/120525815-d6430200-c3d8-11eb-82fc-f6810d73bbbe.mp4
 
 
+## Requirements
+
 For CSGO usage you will need the [HLAE CamIO to AE script](https://github.com/xNWP/HLAE-CamIO-To-AE)
 
 To learn about the CamIO usage watch this tutorial
