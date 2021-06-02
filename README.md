@@ -2,6 +2,10 @@
 
 CSGO Coordinates allows you to convert Blender coordinates and copy them to After Effects position value.
 
+## Download
+
+The download can be found on the [Release](https://github.com/Devostated/CSGO-Coordinates/releases) Page
+
 ## Usage
 * Place an object where ever you want it to be tracked
 * Copy and paste the coordinates into the CSGO Coordinates software
