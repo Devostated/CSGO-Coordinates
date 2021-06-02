@@ -18,6 +18,7 @@ https://user-images.githubusercontent.com/30211694/120525815-d6430200-c3d8-11eb-
 ## Requirements
 
 For CSGO usage you will need the [HLAE CamIO to AE script](https://github.com/xNWP/HLAE-CamIO-To-AE)
+To get the map into Blender [HLAE CamIO to AE script](https://github.com/lasa01/io_import_vmf)
 
 To learn about the CamIO usage watch this tutorial
 [![YTtutorial](https://user-images.githubusercontent.com/30211694/120524357-45b7f200-c3d7-11eb-9bf0-ee2bf1a03ad7.png)](https://youtu.be/1lrhszcRfCs)
